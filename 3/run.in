@@ -18,4 +18,4 @@ ensemble     nvt_nhc 300 300 100
 compute_hnemd  1000 1.0e-5 0 0
 compute_shc 1 1000 0 1000 120.0 group 0 3
 dump_position 10000
-run          2000000
+run          2500000
